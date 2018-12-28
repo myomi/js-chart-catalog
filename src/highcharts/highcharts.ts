@@ -6,6 +6,8 @@ theme(Highcharts); // setup theme
 // heatmap(Highcharts); // setup heatmap
 
 import './column';
+import './line';
+import './async';
 
 /**
  * https://www.highcharts.com/docs/getting-started/your-first-chart
